@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday Dear Pranjul Gautam</title>
+    <style>
+        body {font-family: 'Arial', sans-serif; text-align: center; margin: 50px;}
+       h1 {color: #3498db;}
+       p {color: #333;}
+    </style>
+</head>
+<body>
+<h1>Happy Birthday Dear Pranjul!</h1>
+<p>Wishing you a day filled with joy and luaghter.</p>
+<p>May all your dreams and wishes some true!</p>
+<p>Best regards,</p>
+<p>Anuj Gautam</p>
+
+</body>
+</html>
